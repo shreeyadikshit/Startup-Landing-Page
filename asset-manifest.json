@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Startup-Landing-Page/static/css/main.a0be51f1.css",
+    "main.js": "/Startup-Landing-Page/static/js/main.bd5c0df7.js",
+    "index.html": "/Startup-Landing-Page/index.html",
+    "main.a0be51f1.css.map": "/Startup-Landing-Page/static/css/main.a0be51f1.css.map",
+    "main.bd5c0df7.js.map": "/Startup-Landing-Page/static/js/main.bd5c0df7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0be51f1.css",
+    "static/js/main.bd5c0df7.js"
+  ]
+}
